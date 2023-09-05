@@ -1,2 +1,46 @@
-# Shop
-Is a small shopping cart system that can be applied to e-commerce android applications.
+该项目使用了 pandas、sqlite3、tkinter、PIL 和 PyQt5 等库。
+该项目有 GUI 功能，因为使用了 tkinter 和 PyQt5。
+有一个名为 Entry 的类，它包含一个 login 方法来处理用户登录。
+为了创建 PPT 的大纲，我们现在可以开始总结：
+
+项目背景:
+
+该项目是一个小型购物车系统。
+它是为电子商务安卓应用程序设计的。
+
+
+为什么要做这个项目:
+
+提供一个简单、高效的购物车功能。
+提供 GUI 功能以增强用户体验。
+在项目中同学承担的工作:
+
+
+最后呈现的结果:
+
+一个带有登录功能的 GUI 应用。
+一个能够处理购物车操作的后端系统。
+下一步，我将继续分析代码以确定项目中同学的具体工作。
+
+Entry
+函数:
+
+login: 用于处理用户登录。
+signup: 用于用户注册。
+quit: 用于退出应用。
+show_error: 显示错误信息。
+guide: 是一个指导或帮助功能。
+custom: 与自定义设置有关。
+shop: 是主要的购物功能。
+cart: 是购物车功能。
+info: 是显示用户信息。
+edit_tel: 编辑电话号码。
+save_tel: 保存电话号码。
+edit_address: 编辑地址。
+save_address: 保存地址。
+
+在项目中同学承担的工作:
+设计和实现 Entry 类，处理用户的登录和注册。
+实现购物和购物车功能。
+提供用户信息编辑功能，如电话号码和地址。
+增加错误处理和显示功能
